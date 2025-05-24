@@ -1,0 +1,11 @@
+Clarke Error Grid for ARIMA_AllFolds:
+Zone A: 83.87%
+Zone B: 13.77%
+Zone C: 0.00%
+Zone D: 2.37%
+Zone E: 0.00Clarke Error Grid for ARIMA_AllFolds:
+Zone A: 83.87%
+Zone B: 13.77%
+Zone C: 0.00%
+Zone D: 2.37%
+Zone E: 0.00%

@@ -1,0 +1,40 @@
+Average MAE: 17.2379
+Average RMSE: 23.7907
+Total time: 4.57 seconds
+
+Detailed metrics:
+Series 0: MAE = 11.0953, RMSE = 16.2057
+Series 1: MAE = 24.9014, RMSE = 38.4549
+Series 2: MAE = 19.0462, RMSE = 25.6359
+Series 3: MAE = 12.3020, RMSE = 16.6475
+Series 4: MAE = 10.8612, RMSE = 14.4167
+Series 5: MAE = 12.0956, RMSE = 16.1575
+Series 6: MAE = 18.9294, RMSE = 25.8255
+Series 7: MAE = 15.4634, RMSE = 20.4176
+Series 8: MAE = 16.6204, RMSE = 23.0909
+Series 9: MAE = 12.6410, RMSE = 16.8043
+Series 10: MAE = 17.4088, RMSE = 23.2332
+Series 11: MAE = 14.9105, RMSE = 20.2596
+Series 12: MAE = 12.8235, RMSE = 17.4730
+Series 13: MAE = 13.8710, RMSE = 18.4947
+Series 14: MAE = 15.8535, RMSE = 21.2764
+Series 15: MAE = 13.7044, RMSE = 18.3098
+Series 16: MAE = 17.7650, RMSE = 23.7305
+Series 17: MAE = 23.3665, RMSE = 32.6391
+Series 18: MAE = 30.0177, RMSE = 42.7862
+Series 19: MAE = 17.7611, RMSE = 24.3650
+Series 20: MAE = 14.5742, RMSE = 19.5799
+Series 21: MAE = 18.9004, RMSE = 27.9822
+Series 22: MAE = 12.5555, RMSE = 17.0980
+Series 23: MAE = 28.3329, RMSE = 38.2525
+Series 24: MAE = 14.8137, RMSE = 19.9862
+Series 25: MAE = 16.0584, RMSE = 21.8753
+Series 26: MAE = 20.0496, RMSE = 28.5677
+Series 27: MAE = 25.9375, RMSE = 36.5724
+
+Clarke Error Grid Analysis:
+Zone A: 77.11%
+Zone B: 20.78%
+Zone C: 0.00%
+Zone D: 2.11%
+Zone E: 0.00%

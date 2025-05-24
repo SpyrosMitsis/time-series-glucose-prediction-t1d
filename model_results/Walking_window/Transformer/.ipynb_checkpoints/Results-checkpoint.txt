@@ -1,0 +1,8 @@
+Clarke Error Grid for Transformer_WF_AllFolds:
+Zone A: 87.23%
+Zone B: 10.83%
+Zone C: 0.00%
+Zone D: 1.93%
+Zone E: 0.00%
+Overall WF MAE: 12.47
+Overall WF RMSE: 14.45ii
